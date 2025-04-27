@@ -4,3 +4,4 @@ openai
 streamlit
 pytest
 google-search-results
+google-generativeai
