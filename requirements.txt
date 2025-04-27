@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+openai
+streamlit
+pytest
+google-search-results
