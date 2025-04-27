@@ -1,7 +1,3 @@
-Sure! Here's an updated version of the **README.md** without the mention of the test folder:
-
----
-
 # Web Research Agent
 
 A powerful web research assistant that accepts research queries, searches the web, extracts and analyzes content, and delivers concise research summaries — powered by Gemini and Streamlit.
